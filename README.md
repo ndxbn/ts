@@ -1,4 +1,6 @@
 # ts
+[![Build Status](https://travis-ci.org/ndxbn/ts.svg?branch=master)](https://travis-ci.org/ndxbn/ts)
+
 my micro Type Script project template.
 
 # Installation
