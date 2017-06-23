@@ -2,6 +2,13 @@
 my micro Type Script project template.
 
 # Installation
+use installer
+
+```bash
+curl https://ndxbn.github.io/ts | bash
+```
+
+or manually
 
 ```
 git clone github.com/ndxbn/ts
@@ -16,4 +23,4 @@ npm i
 1. edit index.ts
 2. `npm t`
 
-All of "**/*.ts" files will be compiled, and `node index.js`. "index.js" is usually entry point file.
+All of `**/*.ts` files will be compiled, and `node index.js`. "index.js" is usually entry point file.
