@@ -1,0 +1,25 @@
+{
+  "name": "@ndxbn/ts",
+  "version": "1.0.0",
+  "description": "my micro Type Script project template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && npm run exec",
+    "exec": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndxbn/ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndxbn/ts/issues"
+  },
+  "homepage": "https://github.com/ndxbn/ts#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.1",
+    "typescript": "^2.3.4"
+  }
+}
