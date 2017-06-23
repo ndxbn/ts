@@ -11,7 +11,7 @@ curl https://ndxbn.github.io/ts | bash
 or manually
 
 ```
-git clone github.com/ndxbn/ts
+git clone https://github.com/ndxbn/ts
 cd ts
 npm i
 ```
